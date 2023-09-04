@@ -1,4 +1,5 @@
-# findsqliapache
+# SQLSentry: O Guardião dos Logs Apache
+
 Este repositório contém um script de shell para analisar logs do servidor web Apache, buscando por possíveis tentativas de ataque de SQL Injection. O script usa expressões regulares para identificar padrões suspeitos nos logs e exibe as linhas que podem indicar uma tentativa de ataque.
 
 🔒 Aviso de Segurança: Este script serve como uma ferramenta auxiliar na detecção de tentativas de SQL Injection. No entanto, ele não é uma solução completa para a segurança do servidor. Sempre use medidas de segurança adicionais e mantenha seus sistemas atualizados.
